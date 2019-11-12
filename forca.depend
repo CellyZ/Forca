@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1573337418 source:c:\users\caiov\desktop\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"forca.h"
+
+1573325740 c:\users\caiov\desktop\forca\forca.h
+
+1573325939 source:c:\users\caiov\desktop\forca\forca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"forca.h"
+	<time.h>
+
+1573512672 source:c:\users\aluno\downloads\exmatioliforca-versao-2\forca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"forca.h"
+	<time.h>
+
+1573512673 c:\users\aluno\downloads\exmatioliforca-versao-2\forca.h
+
+1573512670 source:c:\users\aluno\downloads\exmatioliforca-versao-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"forca.h"
+
+1573512674 source:c:\users\aluno.info16\documents\forca\forca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"forca.h"
+	<time.h>
+
+1573520241 c:\users\aluno.info16\documents\forca\forca.h
+
+1573520830 source:c:\users\aluno.info16\documents\forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"forca.h"
+
