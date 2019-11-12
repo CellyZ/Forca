@@ -118,7 +118,4 @@ NoSecreto * retornaPalavraPos(NoSecreto *l, int pos)
     }
     return p;
 }
-
-
-
-
+//
